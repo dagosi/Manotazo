@@ -1,0 +1,132 @@
+Tdealer
+v7
+r0
+t296869450.992425
+cCheck dependencies
+cCompileC build/dealer.build/Debug/dealer.build/Objects-normal/i386/main.o "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/main.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/dealer.build/Debug/dealer.build/Objects-normal/i386/Player.o "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/Player.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/dealer.build/Debug/dealer.build/Objects-normal/i386/Dealer.o "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/Dealer.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/Debug/dealer" normal i386
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B99A23900000000000000EE
+t1268359737
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/pthread.h
+c000000004AC3260600000000000038F0
+t1254303238
+s14576
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/semaphore.h
+c000000004AC32606000000000000046F
+t1254303238
+s1135
+
+N/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/Dealer.cpp
+c000000004C0179BD00000000000000A7
+t1275165117
+s167
+i"Dealer.h"
+
+N/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/Dealer.h
+c000000004C01A6C90000000000000187
+t1275176649
+s391
+i"Player.h"
+i<semaphore.h>
+
+N/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/Player.cpp
+c000000004C01A5BB00000000000000BD
+t1275176379
+s189
+i"Player.h"
+
+N/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/Player.h
+c000000004C01A5B3000000000000014E
+t1275176371
+s334
+i<pthread.h>
+i<queue>
+i<semaphore.h>
+
+N/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/Debug/dealer
+t1275176650
+s10440
+
+N/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/Objects-normal/i386/Dealer.o
+t1275176650
+s13308
+
+N/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/Objects-normal/i386/Player.o
+t1275176505
+s13296
+
+N/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/Objects-normal/i386/dealer.LinkFileList
+c000000004C01A35700000000000001C0
+t1275175767
+s448
+
+N/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/Objects-normal/i386/main.o
+t1275175769
+s66392
+
+N/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/main.cpp
+c000000004C0150C8000000000000008F
+t1275154632
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296869450#296869450#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/dealer.build/Debug/dealer.build/Objects-normal/i386/Dealer.o "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/Dealer.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s296869450.266806
+e296869450.428917
+r1
+xCompileC
+xbuild/dealer.build/Debug/dealer.build/Objects-normal/i386/Dealer.o
+x/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/Dealer.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/Dealer.cpp296869450#296869450#0(0"0(0#0#93"/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/Dealer.cpp4300911832#1777"    cd "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/dealer-generated-files.hmap" "-I/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/dealer-own-target-headers.hmap" "-I/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/dealer-all-target-headers.hmap" -iquote "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/dealer-project-headers.hmap" "-F/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/Debug" "-I/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/Debug/include" "-I/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/DerivedSources/i386" "-I/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/DerivedSources" -c "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/Dealer.cpp" -o "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/Objects-normal/i386/Dealer.o"0#
+
+CCompileC build/dealer.build/Debug/dealer.build/Objects-normal/i386/Player.o "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/Player.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s296869305.540134
+e296869305.806823
+r1
+xCompileC
+xbuild/dealer.build/Debug/dealer.build/Objects-normal/i386/Player.o
+x/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/Player.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/Player.cpp296869305#296869305#0(0"0(0#0#93"/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/Player.cpp4300911832#1777"    cd "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/dealer-generated-files.hmap" "-I/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/dealer-own-target-headers.hmap" "-I/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/dealer-all-target-headers.hmap" -iquote "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/dealer-project-headers.hmap" "-F/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/Debug" "-I/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/Debug/include" "-I/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/DerivedSources/i386" "-I/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/DerivedSources" -c "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/Player.cpp" -o "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/Objects-normal/i386/Player.o"0#
+
+CCompileC build/dealer.build/Debug/dealer.build/Objects-normal/i386/main.o "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/main.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s296868567.786580
+e296868569.982309
+r1
+xCompileC
+xbuild/dealer.build/Debug/dealer.build/Objects-normal/i386/main.o
+x/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/main.cpp296868567#296868569#0(0"0(0#0#91"/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/main.cpp3251651918781624320#1773"    cd "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/dealer-generated-files.hmap" "-I/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/dealer-own-target-headers.hmap" "-I/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/dealer-all-target-headers.hmap" -iquote "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/dealer-project-headers.hmap" "-F/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/Debug" "-I/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/Debug/include" "-I/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/DerivedSources/i386" "-I/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/DerivedSources" -c "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/main.cpp" -o "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/Objects-normal/i386/main.o"0#
+
+CLd "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/Debug/dealer" normal i386
+s296869450.429015
+e296869450.992380
+r1
+xLd
+x/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/Debug/dealer
+xnormal
+xi386
+lSLF07#2@106"Link /Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/Debug/dealer296869450#296869450#0(0"0(0#0#0"4300911832#720"    cd "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/Debug" "-F/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/Debug" -filelist "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/dealer.build/Debug/dealer.build/Objects-normal/i386/dealer.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/Debug/dealer"0#
+

@@ -1,0 +1,99 @@
+TManotazo
+v7
+r1
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B99A23900000000000000EE
+t1268359737
+s238
+
+N/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/Dealer.cpp
+c000000004C0179BD00000000000000A7
+t1275165117
+s167
+i"Dealer.h"
+
+N/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/Dealer.h
+c000000004C019F9B00000000000000B2
+t1275174811
+s178
+
+N/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/Player.cpp
+c000000004C0179AA00000000000000A7
+t1275165098
+s167
+i"Player.h"
+
+N/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/Player.h
+c000000004C019F07000000000000016B
+t1275174663
+s363
+
+N/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/Debug/Manotazo
+t2
+s0
+
+N/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/Manotazo.build/Debug/Manotazo.build/Objects-normal/i386/Dealer.o
+t2
+s0
+
+N/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/Manotazo.build/Debug/Manotazo.build/Objects-normal/i386/Manotazo.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/Manotazo.build/Debug/Manotazo.build/Objects-normal/i386/Player.o
+t2
+s0
+
+N/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/Manotazo.build/Debug/Manotazo.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/Manotazo.build/Debug/Manotazo.build/Objects-normal/x86_64/Dealer.o
+t2
+s0
+
+N/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/Manotazo.build/Debug/Manotazo.build/Objects-normal/x86_64/Manotazo.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/Manotazo.build/Debug/Manotazo.build/Objects-normal/x86_64/Player.o
+t2
+s0
+
+N/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/Manotazo.build/Debug/Manotazo.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/main.cpp
+c000000004C0150C8000000000000008F
+t1275154632
+s143
+i<iostream>
+
+CCompileC build/Manotazo.build/Debug/Manotazo.build/Objects-normal/i386/Dealer.o "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/Dealer.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Manotazo.build/Debug/Manotazo.build/Objects-normal/i386/Player.o "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/Player.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Manotazo.build/Debug/Manotazo.build/Objects-normal/i386/main.o "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/main.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Manotazo.build/Debug/Manotazo.build/Objects-normal/x86_64/Dealer.o "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/Dealer.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Manotazo.build/Debug/Manotazo.build/Objects-normal/x86_64/Player.o "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/Player.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Manotazo.build/Debug/Manotazo.build/Objects-normal/x86_64/main.o "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/Debug/Manotazo" normal i386
+r0
+
+CLd "/Users/Tulkas/Documents/EAFIT/2010 - 1/Sistemas Operativos/Practica Final/Manotazo/build/Debug/Manotazo" normal x86_64
+r0
+
